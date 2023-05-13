@@ -7,3 +7,5 @@ Quiero crear mi propia empresa, de desarrollo de software, espero tenga excelent
 Tengo un hijo que se llama Martin, nación en Junio del 2018  
 
 
+el comando git remote add origin sirve para conectar un repositorio local con un repo remoto 
+
